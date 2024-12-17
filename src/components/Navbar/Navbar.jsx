@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import {
-  MdOutlineRestaurantMen,
   MdOutlineRestaurantMenu,
 } from "react-icons/md";
 
